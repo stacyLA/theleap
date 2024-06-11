@@ -12,4 +12,6 @@ git add is used to add afiles into the repositury. open the created repo using t
 ## What is Git Commit ?
 git commit is used to create a snapshot of the changes made to the repo.
 the command is "git commit -m"(write a comment)" "
+## What is git push?
+git push command pushes the repo to the branch. the first command is "git branch" , used to identify the branch. the next command is "git push -u origin (branch)"
 
